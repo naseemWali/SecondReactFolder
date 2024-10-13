@@ -6,10 +6,10 @@ import React, { Component } from 'react';
  class RenderMethod extends Component {
   constructor(){
     super()
-    this.state={
-        name:'naseemwali'
+    this.state={ 
+    name:'naseemwali'
     }
-  }
+    }
   
   render() {
     console.log('render method');
